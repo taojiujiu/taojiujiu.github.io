@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  <entry>
+    <title>Docker(1): Why use docker</title>
+    <url>/2020/01/27/Docker/docker-1/</url>
+    <content><![CDATA[<h3 id="What-is-docker"><a href="#What-is-docker" class="headerlink" title="What is docker?"></a>What is docker?</h3><h3 id="Why-should-we-use-docker-Docker-could-solved-which-pain-points"><a href="#Why-should-we-use-docker-Docker-could-solved-which-pain-points" class="headerlink" title="Why should we use docker? Docker could solved which pain points?"></a>Why should we use docker? Docker could solved which pain points?</h3><h4 id="matrix-from-hell"><a href="#matrix-from-hell" class="headerlink" title="matrix from hell"></a>matrix from hell</h4><h4 id="It-works-on-my-machine"><a href="#It-works-on-my-machine" class="headerlink" title="It works on my machine"></a>It works on my machine</h4><h4 id="Instruction-as-a-code"><a href="#Instruction-as-a-code" class="headerlink" title="Instruction as a code"></a>Instruction as a code</h4><h3 id="What-is-the-advantages-of-Docker"><a href="#What-is-the-advantages-of-Docker" class="headerlink" title="What is the advantages of Docker?"></a>What is the advantages of Docker?</h3><h3 id="Docker-vs-VM"><a href="#Docker-vs-VM" class="headerlink" title="Docker vs VM"></a>Docker vs VM</h3><h3 id="Docker-vs-rkt"><a href="#Docker-vs-rkt" class="headerlink" title="Docker vs rkt"></a>Docker vs rkt</h3>]]></content>
+      <categories>
+        <category>docker</category>
+      </categories>
+      <tags>
+        <tag>docker</tag>
+      </tags>
+  </entry>
+</search>
