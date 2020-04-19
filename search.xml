@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>Docker/Docker Best Practices</title>
+    <title>Docker(2): Docker Best Practices</title>
     <url>/2020/04/19/Docker/Docker%20Best%20Practices/</url>
     <content><![CDATA[<h1 id="Docker-Best-Practices"><a href="#Docker-Best-Practices" class="headerlink" title="Docker Best Practices"></a>Docker Best Practices</h1><p>当谈 docker 最佳实践的时候，可以从为以下五个维度出发或者说最佳实践能从以下五个维度帮助到我们。</p>
 <ul>
@@ -43,6 +43,12 @@
 </li>
 </ul>
 ]]></content>
+      <categories>
+        <category>docker</category>
+      </categories>
+      <tags>
+        <tag>docker</tag>
+      </tags>
   </entry>
   <entry>
     <title>Docker(1): Why use docker</title>
